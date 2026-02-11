@@ -9,6 +9,7 @@
 - YAGNI: no features, abstractions, or "flexibility" beyond what was asked.
 - No error handling for impossible scenarios.
 - Simple is better than complex — if 200 lines could be 50, rewrite.
+- Reuse over rebuild — prefer proven open-source libraries over custom implementations.
 
 ## Surgical Changes
 - Touch only what the request requires. Don't improve adjacent code.
