@@ -24,6 +24,7 @@
 - End with unresolved questions, if any.
 
 # Tooling
+- **IMPORTANT**: Never claim a tool is unavailable without verifying first. Check your tool list before making availability statements.
 - Use official CLIs (`gh`, `aws`, `gcloud`) and discover usage via `--help` — not web searches.
 - Use LSP/diagnostics alongside Grep for code navigation when available. Default to Grep otherwise.
 
